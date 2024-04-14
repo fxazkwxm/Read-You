@@ -31,8 +31,11 @@ Read You 也集成了一些第三方服务 API，支持您使用已有的云端�
  ...
 
  项目原作者:
+ 
  https://github.com/Ashinch/ReadYou/
+ 
  下载:
+ 
  https://github.com/Ashinch/ReadYou/releases/
 
  
